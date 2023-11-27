@@ -1,0 +1,1 @@
+openssl pkcs12 -export -in certnew.cer -out  codebeamer.p12 -name codebeamer
